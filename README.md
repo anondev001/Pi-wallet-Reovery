@@ -44,16 +44,15 @@ A specialized cryptographic toolkit for recovering and validating Pi Network wal
 The **Pro Version** for advanced automation, Transaction History Scan, Multi-Threaded API Engine, bulk scanning, and deep blockchain analytics.
 
 **Exclusive Pro Features:**
-- **Multi-Target Batch Scanner**: Bulk scan lists of addresses or mnemonics simultaneously.
+- **Multi-Target wallet adress Scanner**: Bulk scan lists of addresses or mnemonics simultaneously.
 - **Auto-Extraction Scanner**: Automatically extracts and scans all wallets saved in your `RESULTS_STORAGE` folder.
-- **Transaction History Deep Scan**: Displays the last 10 transaction logs (IN/OUT, Peer Address, and Dates).
-- **Multi-Threaded API Engine**: Uses high-speed threading to check balances 20x faster.
-- **Standalone QR Code Generator**: A manual tool to convert any text/key into a QR code on demand.
+- **Transaction History and Balance Scanner checker**: Displays the last 10 transaction logs (IN/OUT, Peer Address, and Dates).
+- **Standalone QR Code Generator**: A manual tool to convert any Phrase key or Wallet pi Address  into a QR code on demand.
 - **Granular Session Resumption**: Ability to stop and resume massive brute-force searches at a specific percentage/index.
 - **Automated  Reports**: Generates a summary of total Pi found across all scanned wallets.
-- **Watch-Only Portfolio Tracker**: Real-time balance monitoring for saved addresses.
-- **On-Chain Balance Scanner**: Instant blockchain verification.
-- **System Speed Test & Benchmark**: Cryptographic performance rating 
+- **System Speed Test & Benchmark**: Cryptographic performance rating
+- - **Watch-Only Portfolio Tracker**: Real-time balance monitoring for saved addresses.
+- - and many More.....
 
 **For Pro version access:**
 📧 **Contact:** `uworkonline1@gmail.com`
