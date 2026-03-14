@@ -32,6 +32,7 @@ A specialized cryptographic toolkit for recovering and validating Pi Network wal
    ```bash
    python pi_recovery.py
    ```
+![Uploaded image on Imghippo](https://i.imghippo.com/files/wGHz7751IcQ.png)
 
 ## Security Architecture
 *   **Zero-Network Core**: All recovery algorithms and key derivations run 100% locally.
