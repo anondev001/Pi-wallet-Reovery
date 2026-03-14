@@ -23,15 +23,22 @@ A specialized cryptographic toolkit for recovering and validating Pi Network wal
 
 ## Installation
 
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run the tool: `python pi_recovery.py`
+1. **Download & Extract**: Download the `pi_recovery.zip` file and extract its contents to a local folder on your computer.
+2. **Install Dependencies**: Open your terminal (PowerShell/CMD) in the extracted folder and run:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the Tool**: Launch the suite with the following command:
+   ```bash
+   python pi_recovery.py
+   ```
 
 ## Security Architecture
 *   **Zero-Network Core**: All recovery algorithms and key derivations run 100% locally.
 *   **Persistence**: Sessions are saved to `RESULTS_STORAGE/` to prevent data loss.
 *   **Data Isolation**: Private keys and mnemonics are never logged to system caches.
 
-*   
+  
 ## 💎 Get Pro Version
 
 The **Pro Version** for advanced automation, Transaction History Scan, Multi-Threaded API Engine, bulk scanning, and deep blockchain analytics.
