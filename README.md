@@ -1,6 +1,3 @@
-# Pi-wallet-Reovery
-The Pi Network Master Recovery Suite is a specialized cryptographic toolkit for authorized wallet restoration. It utilizes high-performance Python algorithms to solve lost passphrases, misspelled keywords, and incorrect word orders while maintaining a 100% offline security core.
-
 # Pi Network Wallet Recovery Suite (Free Edition)
 
 A specialized cryptographic toolkit for recovering and validating Pi Network wallet passphrases. This suite focuses on offline-first recovery methods, utilizing the BIP39 standard for the Pi Network.
