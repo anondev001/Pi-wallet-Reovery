@@ -2,7 +2,7 @@
 A specialized cryptographic toolkit for recovering missing, swapped, etc and validating Pi Network wallet passphrases. This tool focuses on offline-first recovery methods, utilizing the BIP39 standard for the Pi Network.
 
 > [!WARNING]
-> **Educational Purpose Only:** This tool is designed for authorized wallet recovery and research. Using this software for unauthorized access or any illegal activities is strictly prohibited.
+> **Educational Purpose Only:** This tool is designed for missing, swapped, wrong spelling etc of Mnemonic recovery. Using this software for any illegal activities is strictly prohibited.
 
 ## 🚀 Free Features
 
