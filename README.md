@@ -1,4 +1,4 @@
-# Pi Network Wallet Recovery Suite (Free Edition)
+# Pi Network phrase keys Recovery (Free Edition)
 A specialized cryptographic toolkit for recovering missing, swapped, etc and validating Pi Network wallet passphrases. This tool focuses on offline-first recovery methods, utilizing the BIP39 standard for the Pi Network.
 
 > [!WARNING]
